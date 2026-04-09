@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Bitanya👋
 
-<!--
-**bitanyabdemissie-web/bitanyabdemissie-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on software engineering and AI, building scalable, real-world intelligent systems.
 
-Here are some ideas to get you started:
+## Who am I?
+I am a Computer Engineering student at the University of Dubai with a strong interest in software engineering and artificial intelligence. I am focused on strengthening my backend development, system design, and AI application skills while growing into an engineer who builds reliable and practical systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I currently working on?
+I am currently developing my skills in Python, Django, Git, databases, and machine learning integration. My main focus is learning how to build intelligent applications that are technically solid, scalable, and useful in real-world settings.
+
+## What tools do I use?
+- **Languages:** Python, Java, C++
+- **Frameworks:** Django
+- **Tools:** Git, GitHub, pytest
+- **Databases:** SQLite
+- **Currently learning:** PostgreSQL, NoSQL, deployment workflows, and cloud fundamentals
