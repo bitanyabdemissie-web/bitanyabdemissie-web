@@ -8,9 +8,9 @@ I am a Computer Engineering student at the University of Dubai with a strong int
 ## What am I currently working on?
 I am currently developing my skills in Python, Django, Git, databases, and machine learning integration. My main focus is learning how to build intelligent applications that are technically solid, scalable, and useful in real-world settings.
 
-## What tools do I use?
-- **Languages:** Python, Java, C++, HTML, CSS
+## Tools do I use?
+- **Languages:** Python, Java, C++, HTML, CSS, JavaScript
 - **Frameworks:** Django
-- **Tools:** Git, GitHub, pytest
+- **Tools:** Git, GitHub, pytest, pandas, numpy, matplotlib, sklearn
 - **Databases:** SQLite
-- **Currently learning:** PostgreSQL, NoSQL, deployment workflows, and cloud fundamentals
+- **Currently learning:** PostgreSQL, NoSQL, deployment workflows, and MLOps
