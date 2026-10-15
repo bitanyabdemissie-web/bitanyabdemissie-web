@@ -10,7 +10,7 @@ I am currently developing my skills in Python, Django, Git, and machine learning
 
 ## Tools do I use?
 - **Languages:** Python, Java, C++, HTML, CSS
-- **Frameworks:** Django
+- **Frameworks:** Tensorflow
 - **Tools:** Git, GitHub, pytest, pandas, numpy, matplotlib, sklearn
-- **Databases:** SQLite
-- **Currently learning:** SQL, Deployment workflows, and MLOps
+- **Databases:** SQL
+- **Currently learning:** Django, Deployment workflows, and MLOps
