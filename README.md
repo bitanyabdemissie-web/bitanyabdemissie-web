@@ -1,16 +1,37 @@
-## Hi, I'm Bitanya👋
+# Hi, I'm Bitanya
 
-Computer Engineering student focused on Data Science and Machine Learing, building scalable, real-world intelligent systems.
+Computer Engineering student at the University of Dubai, specializing in Artificial Intelligence, with interests in machine learning, data science, and research-driven problem-solving.
 
 ## Who am I?
-I am a Computer Engineering student at the University of Dubai with a strong interest in Data Science, Machine Learning and backend. I am focused on strengthening my backend development, system design, and AI application skills while growing into an engineer who builds reliable and practical systems.
+
+I am interested in the intersection of mathematics, data, and intelligent systems. I enjoy exploring datasets, developing machine learning models, and investigating how computational approaches can address real-world problems.
+
+My research interests include **Explainable AI (XAI), Trustworthy AI, and their applications in medical AI and signal processing**. I also maintain an interest in software engineering, backend development, and building practical intelligent applications.
 
 ## What am I currently working on?
-I am currently developing my skills in Python, Django, Git, and machine learning integration. My main focus is learning how to build intelligent applications that are technically solid, scalable, and useful in real-world settings.
 
-## Tools do I use?
-- **Languages:** Python, Java, C++, HTML, CSS
-- **Frameworks:** Tensorflow
-- **Tools:** Git, GitHub, pytest, pandas, numpy, matplotlib, sklearn
-- **Databases:** SQL
-- **Currently learning:** Django, Deployment workflows, and MLOps
+- Exploring machine learning approaches for classification and predictive modeling.
+- Developing skills in data analysis, feature engineering, and model evaluation.
+- Exploring audio signal processing and machine learning.
+- Strengthening my understanding of explainable and trustworthy AI.
+- Continuing to develop my backend development skills with Django.
+
+## Technical Skills & Tools
+
+- **Languages:** Python, Java, C++, SQL, HTML, CSS
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **Data Science:** NumPy, pandas, Matplotlib
+- **Backend Development:** Django, SQLite
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## Research Interests
+
+- Machine Learning & Data Science
+- Explainable AI (XAI) & Model Interpretability
+- Trustworthy & Responsible AI
+- Medical AI & Signal Processing
+- Mathematical Foundations of Machine Learning
+
+## Currently Learning
+
+Deepening my knowledge of machine learning, data science, and research methodologies while exploring the development of reliable and interpretable AI systems.
