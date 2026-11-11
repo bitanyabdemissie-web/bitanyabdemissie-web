@@ -4,9 +4,9 @@ Computer Engineering student at the University of Dubai, specializing in Artific
 
 ## Who am I?
 
-I am interested in the intersection of mathematics, data, and intelligent systems. I enjoy exploring datasets, developing machine learning models, and investigating how computational approaches can address real-world problems.
+I am interested in the intersection of mathematics, data, and intelligent systems. I enjoy exploring datasets, experimenting with machine learning approaches, and investigating how computational methods can address real-world problems.
 
-My research interests include **Explainable AI (XAI), Trustworthy AI, and their applications in medical AI and signal processing**. I also maintain an interest in software engineering, backend development, and building practical intelligent applications.
+My research interests include **Explainable AI (XAI), Trustworthy AI, and their applications in medical AI decision support and signal processing**. I also maintain an interest in software engineering, backend development, and building practical intelligent applications.
 
 ## What am I currently working on?
 
